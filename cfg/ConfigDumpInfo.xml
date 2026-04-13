@@ -153,9 +153,12 @@
 		<Metadata name="Catalog.РасчетныеСчетаКонтрагентов.ObjectModule" id="f9e4f68d-971a-4afc-b8d3-3a5efa171085.0" configVersion="37d3348ee8ef99419138badfe8b6786a00000000"/>
 		<Metadata name="Catalog.Регионы" id="2ce6a72f-d84f-4911-b820-dada3614149e" configVersion="5c1aaa8df015a847b8ddee256b9d787900000000"/>
 		<Metadata name="Catalog.Регионы.Help" id="2ce6a72f-d84f-4911-b820-dada3614149e.1" configVersion="76cca0eecc0b3940bf92098bd0f609bd00000000"/>
-		<Metadata name="Catalog.Склады" id="60a6f9a9-2886-4126-8867-57019f80c8c2" configVersion="270f4064e140e24a9e5b5bb26384307100000000">
+		<Metadata name="Catalog.Склады" id="60a6f9a9-2886-4126-8867-57019f80c8c2" configVersion="3573f684419b46408a5fec17deb27abc00000000">
+			<Metadata name="Catalog.Склады.Attribute.Номер" id="14ecbbfe-1916-4703-ac45-dffc9033d7df"/>
 			<Metadata name="Catalog.Склады.Attribute.НеИспользовать" id="288a5829-afa5-43f8-b4af-55ef922cce16"/>
 		</Metadata>
+		<Metadata name="Catalog.Склады.Form.ФормаЭлемента" id="7aa5e089-eba2-4128-b6b1-ad96b1f1ff1f" configVersion="77e1822982df6140aa766db5e1f485dc00000000"/>
+		<Metadata name="Catalog.Склады.Form.ФормаЭлемента.Form" id="7aa5e089-eba2-4128-b6b1-ad96b1f1ff1f.0" configVersion="f7fdc9302bc072458653199e0496153f00000000"/>
 		<Metadata name="Catalog.Склады.Help" id="60a6f9a9-2886-4126-8867-57019f80c8c2.1" configVersion="981e949f4c109f43afe7f4ca83a18f6800000000"/>
 		<Metadata name="Catalog.Склады.ManagerModule" id="60a6f9a9-2886-4126-8867-57019f80c8c2.3" configVersion="fe3ccee25ba5514990acc958298571ad00000000"/>
 		<Metadata name="Catalog.Товары" id="5a77ed34-389a-45e7-85f4-1a2a7b95fd80" configVersion="89c73fdd99aa4f469e76c50476dac03e00000000">
