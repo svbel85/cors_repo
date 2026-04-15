@@ -646,7 +646,7 @@
 		<Metadata name="Document.ПоступлениеДенег.Form.ФормаДокумента.Form" id="0c5d1b45-8b7d-413e-ab11-f0192f59101c.0" configVersion="fcf7c33315062246a8f1b31fd252d9e200000000"/>
 		<Metadata name="Document.ПоступлениеДенег.Help" id="fd455a27-23d6-458c-827d-779819b10f57.1" configVersion="919b5f11a65f0f41ab7114f71bfe83c900000000"/>
 		<Metadata name="Document.ПоступлениеДенег.ObjectModule" id="fd455a27-23d6-458c-827d-779819b10f57.0" configVersion="b89fb09fe33584449f0f55f3dd5faf2800000000"/>
-		<Metadata name="Document.ПриходТовара" id="465028ef-ab50-4508-b3ba-c29202551673" configVersion="5a67cd8f23bc5e4fb4d0f40d9decd40900000000">
+		<Metadata name="Document.ПриходТовара" id="465028ef-ab50-4508-b3ba-c29202551673" configVersion="1b60dd2973afe94898ae156844b2528900000000">
 			<Metadata name="Document.ПриходТовара.TabularSection.Товары.Attribute.Товар" id="0527b9a2-4d97-4f58-b130-f934fefa5077"/>
 			<Metadata name="Document.ПриходТовара.TabularSection.Товары.Attribute.Количество" id="0b24afaa-c16d-41da-b7f1-3734ff24c7c2"/>
 			<Metadata name="Document.ПриходТовара.TabularSection.Товары" id="1e5fca80-7a62-4a56-924a-d84ad889567d"/>
@@ -663,7 +663,7 @@
 		<Metadata name="Document.ПриходТовара.Form.ФормаСписка.Form" id="2af425f3-d592-43a4-90b3-6590a2518ea9.0" configVersion="415d90819fd1874cad4495c39a4684cc00000000"/>
 		<Metadata name="Document.ПриходТовара.Help" id="465028ef-ab50-4508-b3ba-c29202551673.1" configVersion="df3f49d737be6441b1442a5545ecb88d00000000"/>
 		<Metadata name="Document.ПриходТовара.ManagerModule" id="465028ef-ab50-4508-b3ba-c29202551673.2" configVersion="3c77012594d0004b9b72ca2292cff12400000000"/>
-		<Metadata name="Document.ПриходТовара.ObjectModule" id="465028ef-ab50-4508-b3ba-c29202551673.0" configVersion="658d0f5372ef4447a908b9c43000d70100000000"/>
+		<Metadata name="Document.ПриходТовара.ObjectModule" id="465028ef-ab50-4508-b3ba-c29202551673.0" configVersion="49197d4b78850b46bc23cc194d0ccee900000000"/>
 		<Metadata name="Document.РКО" id="ae750301-cd7f-45e6-9f2d-01115278b6ed" configVersion="75fa9a7f960dd64cad70a6528770bec800000000">
 			<Metadata name="Document.РКО.Attribute.Контрагент" id="259fc0f7-1b7e-4f9f-b82e-ffe6e2f8501d"/>
 			<Metadata name="Document.РКО.Attribute.Сумма" id="4d6e9760-c557-4f41-bddf-5458764e6834"/>
